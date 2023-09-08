@@ -25,7 +25,7 @@ spec:
         app.kubernetes.io/instance: rhtap-buildpack-demo-1
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/cmoullia-tenant/rhtap-buildpack-demo-1/rhtap-buildpack-demo-1@sha256:5b57862c0fe2096df1b20b3aa766b3e64dc5b71a01ee9681c5c2aab8d89ca227
+      - image: quay.io/redhat-user-workloads/cmoullia-tenant/rhtap-buildpack-demo-1/rhtap-buildpack-demo-1@sha256:c097aeb9835c85cbc7c5781c26d6d128c2749aeb3d454ce18017c9e3d758c94a
         name: my-java-quarkus
         ports:
         - containerPort: 8081
