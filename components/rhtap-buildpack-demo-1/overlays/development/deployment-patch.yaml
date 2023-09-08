@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/cmoullia-tenant/rhtap-buildpack-demo-1/rhtap-buildpack-demo-1@sha256:b699b09d83edbcb519824afd65b4ea9e39eca48756f96b1dc5f0cb901d409cda
+      - image: quay.io/redhat-user-workloads/cmoullia-tenant/rhtap-buildpack-demo-1/rhtap-buildpack-demo-1@sha256:5b57862c0fe2096df1b20b3aa766b3e64dc5b71a01ee9681c5c2aab8d89ca227
         name: my-java-quarkus
         resources: {}
 status: {}
